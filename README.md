@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi, I'm Ritwik 👋</h1>
+<h1 align="center">Hi, I'm Ritwik </h1>
 <p align="center">
   Exploring Compression • Vision • Et al.  
 </p>
@@ -12,6 +12,5 @@
 
 ---
 
-### Contact
-- Email: ritwikghosal1999@gmail.com
-
+### I like:
+Adventure literature & curiosity driven detours...
