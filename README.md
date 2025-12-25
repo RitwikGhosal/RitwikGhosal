@@ -5,13 +5,13 @@
   Exploring Compression • Vision • Et al.  
 </p>
 
-<!--
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=700&lines=;Hash+tables%2C+parsers%2C+memory+management;Learning+by+building+from+scratch" />
+  <img src="./Gemini_Generated_Image_yzpncfyzpncfyzpn.png" width="600" />
 </p>
--->
+
 ---
 
-## 📫 Contact
+### Contact
 - Email: ritwikghosal1999@gmail.com
 
