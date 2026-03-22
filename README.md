@@ -13,4 +13,6 @@
 ---
 
 ### I like:
-Adventure literature & curiosity driven detours...
+## Adventure literature & curiosity driven detours...
+
+`(I’ve tried to keep my Git updated, but I’m still working on being consistent with it)`
