@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="./Gemini_Generated_Image_yzpncfyzpncfyzpn.png" width="600" />
+  <img src="./geometricabstract_na_350_49_5459X3059_100__40123.jpg" width="600" />
 </p>
 
 ---
