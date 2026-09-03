@@ -15,4 +15,4 @@
 ### I like:
 ## Adventure literature & curiosity driven detours...
 
-Fav Quote: *"Earth without art is eh"*
+Fav Quote: *"Earth without art is just eh"*
